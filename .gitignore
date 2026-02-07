@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+
+# Virtual Environment
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Data files
+*.json
+*.csv
+*.db
+*.sqlite3
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+secrets.toml
+*.pem
+*.key
+
+# Logs
+logs/
+*.log
+
+# Temp files
+temp/
+tmp/
