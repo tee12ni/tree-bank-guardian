@@ -171,7 +171,7 @@ def main():
     st.caption("""
     **Tree Bank Guardian** | Google Gemini 3 Hackathon Submission | 
     Built with Streamlit & Gemini AI | 
-    [GitHub Repository](#)
+    [https://github.com/tee12ni/tree-bank-guardian.git](#)
     """)
 
 # ============================================================================
