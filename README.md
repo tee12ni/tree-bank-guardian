@@ -6,8 +6,8 @@
 
 **AI-Powered Tree Monitoring System for Google Gemini 3 Hackathon**
 
-## 🚀 Live Demo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tree-bank-guardian.streamlit.app)
+## 🚀 Demo
+[Demo on YouTube](https://youtu.be/xvGP7hSLM-4)  
 
 ## 📹 product overview Video
 [Watch on YouTube](https://youtu.be/WYnrVp9gGRM)  
