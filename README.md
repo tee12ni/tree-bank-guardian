@@ -10,7 +10,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tree-bank-guardian.streamlit.app)
 
 ## 📹 product overview Video
-[Watch on YouTube](#) <![-- Add your video link here --](https://youtu.be/WYnrVp9gGRM)>
+[Watch on YouTube](#) <!https://youtu.be/WYnrVp9gGRM>
 
 ## 📋 Table of Contents
 - [Overview](#overview)
