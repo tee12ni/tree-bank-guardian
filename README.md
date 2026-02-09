@@ -71,8 +71,7 @@ Using Gemini 3's multimodal capabilities, users can simply upload a tree photo a
 
 ### **AI & Machine Learning**
 - **Google Gemini 3 API** - Core AI engine
-  - `gemini-1.5-pro-vision` for image analysis
-  - `gemini-1.5-flash` for conversational AI
+  - `models/gemini-2.5-flash` for conversational AI
 - **Prompt Engineering** - Custom botanical expert prompts
 
 ### **Data Management**
@@ -92,5 +91,5 @@ Using Gemini 3's multimodal capabilities, users can simply upload a tree photo a
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/tree-bank-guardian.git
+git clone https://github.com/tee12ni/tree-bank-guardian.git
 cd tree-bank-guardian
