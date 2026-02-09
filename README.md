@@ -93,3 +93,41 @@ Using Gemini 3's multimodal capabilities, users can simply upload a tree photo a
 ```bash
 git clone https://github.com/tee12ni/tree-bank-guardian.git
 cd tree-bank-guardian
+### Step 2: Install Dependencies
+```bash
+pip install -r requirements.txt 
+### Step 3: Set Up Environment Variables
+Create a `.env` file in the root directory and add your Gemini API key:
+```env
+GOOGLE_API_KEY=YOUR_API_KEY
+### Step 4: Run the Application
+```bash
+streamlit run app.py
+## 💡 Usage 
+1. Open the app in your browser at `http://localhost:8501`.
+2. Upload a tree image for analysis.
+3. View species identification, health assessment, and environmental value.
+4. Ask the AI Tree Care Assistant questions about your tree.
+## 📂 Project Structure
+```
+tree-bank-guardian/
+├── app.py                  # Main Streamlit application
+├── modules/
+│   ├── gemini_handler.py    # Gemini API interaction
+│   ├── image_processor.py   # Image processing utilities
+│   ├── prompts_manager.py   # Prompt management for Gemini
+│   └── utils.py             # General utility functions
+├── data/
+│   └── species_prompts.json # Species-specific prompts
+├── requirements.txt        # Python dependencies
+├── README.md               # Project documentation
+└── .env.example            # Example environment variables file
+```
+## 🏆 Future Enhancements
+- Mobile app version for on-the-go tree monitoring
+- Integration with local environmental databases
+- Advanced disease detection using specialized models
+- Community features for sharing tree data
+## 📝 License
+MIT License
+See `LICENSE` for more information.
